@@ -7,5 +7,5 @@
 
 # Instalacion
 
-Para ejecutar Racket dentro de Jupyter notebooks, primero instalamos Jupyter atravez de "pip install notebook" en nuestra consola de comandos
-posteriormente
+Para ejecutar Racket dentro de Jupyter notebooks, primero instalamos Jupyter atravez de "pip install notebook" en nuestra consola de comandos.
+posteriormente nos dirigimos a [IRacket: Racket Kernel for Jupyter](https://docs.racket-lang.org/iracket/index.html)
