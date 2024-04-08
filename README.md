@@ -1,9 +1,9 @@
 # Proy02_E3_ProgramacionFuncional
 
 ## Equipo 3
--Jose Luis Lara Rubio
--Arturo Cadena Mendez
--Tyrone Julian Johnson Dorantes
+- Jose Luis Lara Rubio
+- Arturo Cadena Mendez
+- Tyrone Julian Johnson Dorantes
 
 # Instalacion
 
