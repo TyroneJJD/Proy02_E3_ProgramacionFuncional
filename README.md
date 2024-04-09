@@ -13,3 +13,5 @@
   
 - Posteriormente nos dirigimos a [IRacket: Racket Kernel for Jupyter](https://docs.racket-lang.org/iracket/index.html) para desgargar e instalar el kernel
   de racket para Jupyter.
+
+> Note: `Agregar al path` para instalar el kernel de racket es necesario haber agregado tanto racket y jupyter al path de nuestra computadora.
