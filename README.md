@@ -27,23 +27,30 @@ definición recursiva.
 
 - Defina una función recursiva para calcular el Máximo Común Divisor de dos enteros 
 negativos a y b con a < b usando el hecho de que MCD(a, b) = MCD(a, b-a).
+  Resultado obtenido:
+    ![image](https://github.com/TyroneJJD/Proy02_E3_ProgramacionFuncional/assets/149411556/7931a110-4bff-40fc-ad2f-3161800c3443)
+
 
 
 - Definir una función que devuelva, en una lista, todos los números primos desde un número 
 inicial hasta un número final, ejemplo: (primos 3 10) este ejemplo devolverá ‘(5 7).
+  Resultado obtenido:
 
 - Realizar una función para buscar un elemento en una lista, regresar #t si lo encontró y #f si 
 no lo encontró.
     a. Ejemplo de entrada: (busca 4 ‘(2 4 5))
     b. Ejemplo de salida: #t
+  Resultado obtenido:
 
 - Realizar una función recursiva que invierta una lista.
     a. Ejemplo de entrada: (invierte ‘(2 4 5))
     b. Ejemplo de salida: (5 4 2)
+  Resultado obtenido:
 
 - Realizar una función recursiva que elimine un elemento de una lista
     a. Ejemplo de entrada: (elimina 4 ‘(2 4 5))
     b. Ejemplo de salida: (2 5)
+  Resultado obtenido:
 
 - Dado un número entero positivo, realizar una función recursiva que devuelva verdadero (#t)
 si el número dado es un palíndromo, en caso contrario, retornar falso (#f). Por ejemplo, 
@@ -51,17 +58,21 @@ si el número dado es un palíndromo, en caso contrario, retornar falso (#f). Po
 Racket.
     a. Ejemplo de entrada: (palindromo 12321)
     b. Ejemplo de salida: #f
+  Resultado obtenido:
 
 - Realizar una función recursiva que, dado un número entero, encuentra la suma de sus 
 dígitos. No use funciones incorporadas de Racket.
     a. Ejemplo de entrada: (SumaDigitos 457)
     b. Ejemplo de salida: 16
+  Resultado obtenido:
 
 - Realizar una función recursiva que, dado un número entero, encuentra la suma de sus 
 dígitos. No use funciones incorporadas de Racket.
     a. Ejemplo de entrada: (SumaDigitos 457)
     b. Ejemplo de salida: 16
+  Resultado obtenido:
 
 - Utilizando la serie de Leibnitz y mediante una función recursiva, calcule el valor de PI
   
     <image src=https://github.com/TyroneJJD/Proy02_E3_ProgramacionFuncional/assets/149411556/27d3e105-5172-405a-9507-d7b73c6711f4  width="250" heigth="350">
+  Resultado obtenido:
