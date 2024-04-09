@@ -20,5 +20,5 @@
 - Defina una función para la evaluación del número combinatorio C(n,k), que utiliza la 
 definición recursiva.
 
-![image](https://github.com/TyroneJJD/Proy02_E3_ProgramacionFuncional/assets/149411556/579b195f-a0cb-4ea3-816c-e5bf353e005a) {width = 200 heigth=100}
+![image](https://github.com/TyroneJJD/Proy02_E3_ProgramacionFuncional/assets/149411556/579b195f-a0cb-4ea3-816c-e5bf353e005a){width = 200 heigth=100}
 
