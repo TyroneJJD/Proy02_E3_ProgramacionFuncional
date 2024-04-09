@@ -17,4 +17,7 @@
 > Note: `Agregar al path` para instalar el kernel de racket es necesario haber agregado tanto racket y jupyter al path de nuestra computadora.
 
 # Resultados
+- Defina una función para la evaluación del número combinatorio C(n,k), que utiliza la 
+definición recursiva.
+![image](https://github.com/TyroneJJD/Proy02_E3_ProgramacionFuncional/assets/149411556/579b195f-a0cb-4ea3-816c-e5bf353e005a)
 
