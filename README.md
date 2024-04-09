@@ -1,5 +1,7 @@
 # Proy02_E3_ProgramacionFuncional
 
+## Profesor
+- M.C Luis Ramiro Basto Díaz
 ## Equipo 3
 - Jose Luis Lara Rubio
 - Arturo Cadena Mendez
