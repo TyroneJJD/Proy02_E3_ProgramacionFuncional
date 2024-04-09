@@ -59,4 +59,4 @@ dígitos. No use funciones incorporadas de Racket.
     b. Ejemplo de salida: 16
 
 - Utilizando la serie de Leibnitz y mediante una función recursiva, calcule el valor de PI
-  <image src=https://github.com/TyroneJJD/Proy02_E3_ProgramacionFuncional/assets/149411556/27d3e105-5172-405a-9507-d7b73c6711f4  width="250" heigth="350">
+    <image src=https://github.com/TyroneJJD/Proy02_E3_ProgramacionFuncional/assets/149411556/27d3e105-5172-405a-9507-d7b73c6711f4  width="250" heigth="350">
