@@ -16,5 +16,5 @@
 
 > Note: `Agregar al path` para instalar el kernel de racket es necesario haber agregado tanto racket y jupyter al path de nuestra computadora.
 
-[](![image](https://github.com/TyroneJJD/Proy02_E3_ProgramacionFuncional/assets/149411556/9b1f6b00-7322-47f9-a88a-9cca71025ab6)
+# Resultados
 
