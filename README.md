@@ -24,6 +24,9 @@ definición recursiva.
 
 - Defina una función recursiva para calcular el Máximo Común Divisor de dos enteros 
 negativos a y b con a < b usando el hecho de que MCD(a, b) = MCD(a, b-a).
+    Resultado obtenido:
+    ![image](https://github.com/TyroneJJD/Proy02_E3_ProgramacionFuncional/assets/149411556/89981c20-7c5d-4c62-b2ce-f0a220812d79)
+
 
 - Definir una función que devuelva, en una lista, todos los números primos desde un número 
 inicial hasta un número final, ejemplo: (primos 3 10) este ejemplo devolverá ‘(5 7).
