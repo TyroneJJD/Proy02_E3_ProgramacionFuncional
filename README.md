@@ -98,6 +98,6 @@ dígitos. No use funciones incorporadas de Racket.
   
     <image src=https://github.com/TyroneJJD/Proy02_E3_ProgramacionFuncional/assets/149411556/27d3e105-5172-405a-9507-d7b73c6711f4  width="250" heigth="350">
   
-    Resultado obtenido:
+  Resultado obtenido:
   
-      ![image](https://github.com/TyroneJJD/Proy02_E3_ProgramacionFuncional/assets/149411556/d28ded4c-9519-4bab-a96d-2e54b47047c2)
+    ![image](https://github.com/TyroneJJD/Proy02_E3_ProgramacionFuncional/assets/149411556/d28ded4c-9519-4bab-a96d-2e54b47047c2)
